@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="peso">Peso em Kg</string>
+    <string name="altura">Altura em m</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado</string>
+    <string name="sobre_peso">Sobrepeso</string>
+    <string name="peso_baixo">Peso Baixo</string>
+    <string name="peso_normal">Peso Normal</string>
+    <string name="obsidade">Obsidade</string>
+</resources>

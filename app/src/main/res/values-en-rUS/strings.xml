@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Calculate</string>
+    <string name="peso">Weight in Kg</string>
+    <string name="altura">Height in m</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="resultado">Restult</string>
+</resources>
